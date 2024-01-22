@@ -37,12 +37,19 @@ body {
 
 h1 {
   font-size: 24px;
+  font-size: clamp(24px, 3.5vw, 40px);
   margin-bottom: 1rem;
   font-weight: 200;
 }
 
 p {
   color: var(--c-Grayish-Blue);
+}
+
+.head {
+  max-width: 496px;
+  margin: 0 auto;
+  margin-top: 80px;
 }
 
 .head p {
@@ -126,6 +133,11 @@ footer {
 }
 
 @media screen and (min-width: 750px) {
+  body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+  }
   .body {
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
