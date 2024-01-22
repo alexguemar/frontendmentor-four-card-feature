@@ -1,5 +1,5 @@
 <div align="center">
-<h2>🎯 Frontend Mentor | Huddle landing page with single introductory section </h2>
+<h2>🎯 Frontend Mentor | Four card feature section </h2>
 </div>
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Solution Links
 
-- Solution URL in [Github](https://github.com/alexguemar/frontendmentor-single-price-grid)
-- Live Site URL in [Vercel](https://frontendmentor-single-price-grid-iota.vercel.app/)
+- Solution URL in [Github](https://github.com/alexguemar/frontendmentor-four-card-feature)
+- Live Site URL in [Vercel](https://frontendmentor-four-card-feature-beta.vercel.app/)
 
 ## 🚀 My process
 
@@ -61,7 +61,7 @@ This achievement is a reflection of collective effort and shared inspiration!
 
 ## 🤗 Do you have feedback for my project?
 
-I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/single-price-grid-cf6ijdybaV).
+I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/four-card-feature-section-ABR5N5xolv).
 
 ---
 
